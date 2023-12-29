@@ -1,0 +1,10 @@
+C:\Users\MONSTER\Documents\GitKlas-r-\GitDenemesi\GitDenemesi\bin\Debug\GitDenemesi.exe.config
+C:\Users\MONSTER\Documents\GitKlas-r-\GitDenemesi\GitDenemesi\bin\Debug\GitDenemesi.exe
+C:\Users\MONSTER\Documents\GitKlas-r-\GitDenemesi\GitDenemesi\bin\Debug\GitDenemesi.pdb
+C:\Users\MONSTER\Documents\GitKlas-r-\GitDenemesi\GitDenemesi\obj\Debug\GitDenemesi.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Documents\GitKlas-r-\GitDenemesi\GitDenemesi\obj\Debug\GitDenemesi.Form1.resources
+C:\Users\MONSTER\Documents\GitKlas-r-\GitDenemesi\GitDenemesi\obj\Debug\GitDenemesi.Properties.Resources.resources
+C:\Users\MONSTER\Documents\GitKlas-r-\GitDenemesi\GitDenemesi\obj\Debug\GitDenemesi.csproj.GenerateResource.cache
+C:\Users\MONSTER\Documents\GitKlas-r-\GitDenemesi\GitDenemesi\obj\Debug\GitDenemesi.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Documents\GitKlas-r-\GitDenemesi\GitDenemesi\obj\Debug\GitDenemesi.exe
+C:\Users\MONSTER\Documents\GitKlas-r-\GitDenemesi\GitDenemesi\obj\Debug\GitDenemesi.pdb
